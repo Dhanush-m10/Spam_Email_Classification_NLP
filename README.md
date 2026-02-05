@@ -34,4 +34,15 @@ The model is trained using a labeled dataset of spam and non-spam messages and d
 - Streamlit  
 - Google Colab  
 
+🔗 Live Demo
+
+👉 **Live Application (Temporary – via ngrok):**  
+https://aboveground-samson-tongue.ngrok-free.dev  
+
+👉 **Local Application:**  
+http://localhost:8501  
+
+⚠️ **Note:**  
+> - The live demo link is generated using **ngrok** and may stop working if the Colab runtime is disconnected or restarted.  
+> - The local URL works when the application is run locally using Streamlit.
 
